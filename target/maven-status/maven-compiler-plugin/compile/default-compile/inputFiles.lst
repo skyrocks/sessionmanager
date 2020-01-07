@@ -1,0 +1,10 @@
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/redis/SessionManager.java
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/SessionConstants.java
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/SessionContext.java
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/SessionMetadata.java
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/data/cache/impl/RedisConstants.java
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/data/cache/DataCache.java
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/redis/SessionHandlerValve.java
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/Session.java
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/data/cache/impl/RedisDataCache.java
+/Users/shilei/PrivateCode/Java/sessionmanager/src/main/java/tomcat/request/session/SerializationUtil.java

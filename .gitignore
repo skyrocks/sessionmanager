@@ -1,0 +1,8 @@
+.DS_Store
+/target
+/target*
+
+# Editor directories and files
+.idea
+.iml
+
